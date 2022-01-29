@@ -2,6 +2,8 @@
 
 A dark color scheme for KDE Plasma.
 
+![](.github/Images/screenshot.png)
+
 ## Usage
 
 ### Color Scheme
