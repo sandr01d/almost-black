@@ -1,0 +1,23 @@
+{
+    "name": "Almost Black",
+    "black": "#181818",
+    "brightBlack": "#757575",
+    "blue": "#138CBF",
+    "brightBlue": "#19B2F4",
+    "cyan": "#1ABC9C",
+    "brightCyan": "#16A085",
+    "green": "#13B65F",
+    "brightGreen": "#22C883",
+    "purple": "#A136A1",
+    "brightPurple": "#D670D6",
+    "red": "#CD3131",
+    "brightRed": "#F14C4C",
+    "white": "#E5E5E5",
+    "brightWhite": "#FFFFFF",
+    "yellow": "#D38C35",
+    "brightYellow": "#FDBC4B",
+    "background": "#181818",
+    "selectionBackground": "#CCCCCC",
+    "cursorColor": "#CCCCCC",
+    "foreground": "#CCCCCC"
+}
