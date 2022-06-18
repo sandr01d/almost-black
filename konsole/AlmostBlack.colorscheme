@@ -91,12 +91,12 @@ RandomHueRange=360
 RandomSaturationRange=100
 
 [ForegroundFaint]
-Color=20,150,120
+Color=198,198,198
 RandomHueRange=360
 RandomSaturationRange=100
 
 [ForegroundIntense]
-Color=34,200,131
+Color=255,255,255
 RandomHueRange=360
 RandomSaturationRange=100
 
