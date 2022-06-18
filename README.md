@@ -1,6 +1,6 @@
 # Almost Black
 
-A dark color scheme for KDE Plasma.
+A dark color scheme
 
 <p>
 <img src="https://img.shields.io/github/license/sandr01d/almost-black"/>
@@ -14,14 +14,18 @@ A dark color scheme for KDE Plasma.
 
 ## Usage
 
-### Color Scheme
+### Alacritty
+
+Copy the content of alacritty/almost-black.yml to the color section of .config/alacritty/alacritty.yml
+
+### Plasma
 
 1. Open System Settings
 2. Navigate to Appearence > Colors
 3. Click Install from File...
-4. Select color-scheme/AlmostBlack.colors
+4. Select plasma/AlmostBlack.colors
 
-### Konsole Theme
+### Konsole
 
 1. Copy konsole/AlmostBlack.colorscheme to ~/.local/share/konsole/
 2. Open a **new** instance of Konsole
