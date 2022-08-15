@@ -16,7 +16,7 @@ A dark color scheme
 
 ### Alacritty
 
-Copy the content of alacritty/almost-black.yml to the color section of .config/alacritty/alacritty.yml
+Copy the content of alacritty/almost-black.yml to the color section of ~/.config/alacritty/alacritty.yml
 
 ### Plasma
 
