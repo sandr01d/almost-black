@@ -38,4 +38,5 @@ Both the [Plasma Color Scheme](https://www.pling.com/p/1721771) and the [Konsole
 ## Credits
 
 The Konsole theme is based on Dark+ from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).  
-The ASCII art in the screenshot of console was created using [this](https://paste.xinu.at/oeP93l/plain) script from lolilolicon.
+The ASCII art in the screenshot of console was created using [this](https://paste.xinu.at/oeP93l/plain) script from lolilolicon.  
+The icon theme I use in the screenshots is the wonderful [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/).
