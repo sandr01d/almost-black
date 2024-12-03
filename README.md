@@ -43,6 +43,11 @@ Copy the content of alacritty/almost-black.toml to the color section of ~/.confi
 
 Both the [Plasma Color Scheme](https://www.pling.com/p/1721771) and the [Konsole Color Scheme](https://www.pling.com/p/1721794) are available in the Pling Store and can also be installed via Plasma's "Get New" system.
 
+### VSCode / VSCodium
+
+1. Open your settings file by pressing `Ctrl+Alt+P`, typing and selecting _Preferences: Open User Settings (JSON)_.
+2. Paste the inner JSON (everything except the outer curly braces) of code/almost-black.json into your config file.
+
 ## Credits
 
 The Konsole theme is based on Dark+ from [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).  
