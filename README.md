@@ -17,29 +17,30 @@ Copy the content of alacritty/almost-black.toml to the color section of ~/.confi
 ![](.github/Images/screenshot.png)
 
 1. Open System Settings
-2. Navigate to Appearence > Colors
-3. Click Install from File...
-4. Select plasma/AlmostBlack.colors
+1. Navigate to Appearence > Colors
+1. Click Install from File...
+1. Select plasma/AlmostBlack.colors
 
 ### Konsole
 
 ![](.github/Images/screenshot-konsole.png)
 
 1. Copy konsole/AlmostBlack.colorscheme to ~/.local/share/konsole/
-2. Open a **new** instance of Konsole
-3. Press _Ctrl+Shift+,_
-4. Under Profiles, select your current profile and press the Edit button
-5. Under Appearance select "Almost Black" and click Apply
+1. Open a **new** instance of Konsole
+1. Press _Ctrl+Shift+,_
+1. Under Profiles, select your current profile and press the Edit button
+1. Under Appearance select "Almost Black" and click Apply
+
 
 ### Splash Screen
 
 ![](splash/contents/previews/splash.png)
 
 1. Create a new directory at ~/.local/share/plasma/look-and-feel/Almost-Black-Splash (the name actually matters here)
-2. Copy the content of splash to said directory
-3. Open System Settings
-4. Navigate to Appearance > Splash Screen
-5. Select "Almost Black" and click apply
+1. Copy the content of splash to said directory
+1. Open System Settings
+1. Navigate to Appearance > Splash Screen
+1. Select "Almost Black" and click apply
 
 Both the [Plasma Color Scheme](https://www.pling.com/p/1721771) and the [Konsole Color Scheme](https://www.pling.com/p/1721794) are available in the Pling Store and can also be installed via Plasma's "Get New" system.
 
