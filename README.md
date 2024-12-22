@@ -31,6 +31,11 @@ Copy the content of alacritty/almost-black.toml to the color section of ~/.confi
 1. Under Profiles, select your current profile and press the Edit button
 1. Under Appearance select "Almost Black" and click Apply
 
+### Rofi
+
+1. Copy rofi/almost-black.rasi to ~/.config/rofi/
+1. Add `@theme "almost-black"` to your rofi config
+
 
 ### Splash Screen
 
