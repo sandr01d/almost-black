@@ -12,6 +12,12 @@ A dark color scheme
 
 Copy the content of alacritty/almost-black.toml to the color section of ~/.config/alacritty/alacritty.toml
 
+### DankMaterialShell
+
+1. Open the settings
+2. Navigate to Personalization > Theme & Colors
+3. Under _Theme Color_, select _Browse_ and select _dms/almost-black.json_
+
 ### Plasma
 
 ![](.github/Images/screenshot.png)

@@ -1,0 +1,22 @@
+{
+    "name": "Almost Black",
+    "primary": "#AF875F",
+    "primaryText": "#FFFFFF",
+    "primaryContainer": "#8D6C4C",
+    "secondary": "#3E3E3E",
+    "surface": "#181818",
+    "surfaceText": "#FFFFFF",
+    "surfaceVariant": "#644D36",
+    "surfaceVariantText": "#DAC8B7",
+    "surfaceTint": "#AF875F",
+    "background": "#090909",
+    "backgroundText": "#F6F6F6",
+    "outline": "#505050",
+    "surfaceContainer": "#181818",
+    "surfaceContainerHigh": "#2B2B2B",
+    "surfaceContainerHighest": "#3E3E3E",
+    "error": "#9B0000",
+    "warning": "#D38C35",
+    "info": "#FFFFFF",
+    "matugen_type": "scheme-expressive"
+  }
