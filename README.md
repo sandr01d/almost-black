@@ -17,26 +17,26 @@ Copy the content of alacritty/almost-black.toml to the color section of ~/.confi
 ![](.github/Images/screenshot.png)
 
 1. Open System Settings
-2. Navigate to Appearence > Colors
-3. Click Install from File...
-4. Select plasma/AlmostBlack.colors
+1. Navigate to Appearence > Colors
+1. Click Install from File...
+1. Select plasma/AlmostBlack.colors
 
 ### Konsole
 
 ![](.github/Images/screenshot-konsole.png)
 
 1. Copy konsole/AlmostBlack.colorscheme to ~/.local/share/konsole/
-2. Open a **new** instance of Konsole
-3. Press _Ctrl+Shift+,_
-4. Under Profiles, select your current profile and press the Edit button
-5. Under Appearance select "Almost Black" and click Apply
+1. Open a **new** instance of Konsole
+1. Press _Ctrl+Shift+,_
+1. Under Profiles, select your current profile and press the Edit button
+1. Under Appearance select "Almost Black" and click Apply
 
 Both the [Plasma Color Scheme](https://www.pling.com/p/1721771) and the [Konsole Color Scheme](https://www.pling.com/p/1721794) are available in the Pling Store and can also be installed via Plasma's "Get New" system.
 
 ### VSCode / VSCodium
 
 1. Open your settings file by pressing `Ctrl+Alt+P`, typing and selecting _Preferences: Open User Settings (JSON)_.
-2. Paste the inner JSON (everything except the outer curly braces) of code/almost-black.json into your config file.
+1. Paste the inner JSON (everything except the outer curly braces) of code/almost-black.json into your config file.
 
 ## Credits
 
