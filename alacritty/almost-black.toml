@@ -9,7 +9,7 @@ white = "0xffffff"
 yellow = "0xfdbc4b"
 
 [colors.cursor]
-cursor = "0xffffff"
+cursor = "0xaf875f"
 text = "0x090909"
 
 [colors.dim]
